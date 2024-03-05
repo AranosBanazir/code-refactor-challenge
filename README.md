@@ -2,7 +2,7 @@
 
 ## Description
 
-In this challenge we replaced elements in HTML with more semantic elements to help frame and explain the reason for the use of the element as well as making it more optimized for search engine use. Fixing the elements to better reflect their purpose helps with accessibility as well as making the page easier to read for search engines.
+In this challenge, we replaced elements in HTML with more semantic elements to help frame and explain the reason for the use of the element as well as making it more optimized for search engine use. Fixing the elements to better reflect their purpose helps with accessibility as well as making the page easier to read for search engines. I also removed repetitive and redundant classes into single classes that covered more elements.
 
 ## Installation
 
